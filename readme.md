@@ -13,10 +13,7 @@ Taken from:
  1. cd into your project
  2. Create a .env file with the following parameters: 
     ```
-    PORT=3001
-    REACT_APP_GOOGLE_KEY={GOOGLE_API_KEY}
-    REACT_APP_MAPBOX_ACCESS_TOKEN={MAPBOX_ACCESS_TOKEN}
-    REACT_APP_API_URI='http://localhost:3000'
+    API_KEY=={GOOGLE_API_KEY}
     ```
  3. Open terminal and run `npm install` (this will install the required dependencies)
  4. Run `npm start`
